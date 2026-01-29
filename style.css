@@ -1,0 +1,33 @@
+/* External CSS */
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/20/10/29/background-2158726_640.jpg");
+    background-size: cover;
+}
+
+p{
+    color: black;
+}
+
+/* Class Selector */
+.text{
+    font-size: 20px;
+    color: darkgreen;
+}
+
+/* ID Selector */
+#about{
+    background-color: yellow;
+    padding: 10px;
+}
+
+/* Border, margin, padding */
+table{
+    border: 3px solid black;
+    margin-top: 20px;
+}
+img{
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
